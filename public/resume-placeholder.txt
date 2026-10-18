@@ -1,0 +1,4 @@
+To enable the "Download Resume" button:
+1. Place your actual resume PDF in this folder and name it "resume.pdf".
+2. In `src/data/portfolioData.js`, change `resumeAvailable: false` to `resumeAvailable: true`.
+3. Re-run `npm run build`.
